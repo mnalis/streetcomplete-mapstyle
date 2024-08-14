@@ -1,3 +1,5 @@
+**This repository is obsolete. StreetComplete changed its map renderer from tangram-es to MapLibre-native. Development continues in the [repository of the MapLibre map style definition](https://github.com/streetcomplete/maplibre-streetcomplete-style)**
+
 # StreetComplete map style
 
 This is the map style used in the the android application [StreetComplete](https://github.com/streetcomplete/StreetComplete), an easy OpenStreetMap editor.
